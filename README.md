@@ -1,4 +1,4 @@
-# Java_SampleCode12
+# JavaSampleCode12
 配列
 
 #### 処理
